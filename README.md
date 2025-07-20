@@ -7,18 +7,14 @@ Task Management:
 Add new tasks with:
 
 Title
-
 Due Date
-
 Priority (High, Medium, Low)
-
 Tasks are visually distinguished using colored badges based on priority.
 
 Tasks can be marked as:
 
 ✅ Completed
 ❌ Incomplete
-
 Delete individual tasks when no longer needed.
 
 📂 Filtering System:
