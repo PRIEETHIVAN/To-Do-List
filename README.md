@@ -7,7 +7,7 @@ Task Management:
 Add new tasks with:
 
 Title
-Due Date
+Due Date,
 Priority (High, Medium, Low)
 Tasks are visually distinguished using colored badges based on priority.
 
