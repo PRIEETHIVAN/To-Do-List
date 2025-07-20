@@ -6,23 +6,23 @@ This to-do list supports adding, completing, deleting, and filtering tasks, alon
 Task Management:
 Add new tasks with:
 
-Title
+Title,
 Due Date,
-Priority (High, Medium, Low)
+Priority (High, Medium, Low),
 Tasks are visually distinguished using colored badges based on priority.
 
 Tasks can be marked as:
 
-✅ Completed
-❌ Incomplete
+✅ Completed,
+❌ Incomplete,
 Delete individual tasks when no longer needed.
 
 📂 Filtering System:
 Filter tasks using the top navbar:
 
-All
-Completed
-Incomplete
+All,
+Completed,
+Incomplete.
 
 Priority dropdown lets users filter tasks by:
 
@@ -32,12 +32,11 @@ Priority dropdown lets users filter tasks by:
 
 👤 Profile Modal:
 A profile icon appears in the top-right corner.
-
 When clicked, it opens a modal displaying:
 
-Name
-Mobile Number
-Email
+Name,
+Mobile Number,
+Email,
 All fields are editable and can be used to personalize the app.
 
 <img width="1909" height="923" alt="image" src="https://github.com/user-attachments/assets/1a9485e8-3885-4589-844f-f2dc66b78b44" />
